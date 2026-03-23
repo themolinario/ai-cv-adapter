@@ -1,0 +1,11 @@
+{
+  "name": "ai-cv-adapter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^2.4.5",
+    "puppeteer": "^24.39.1"
+  }
+}
